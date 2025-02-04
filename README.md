@@ -14,9 +14,9 @@ Portfolio Website ini dibuat menggunakan HTML, CSS, dan JavaScript dengan fokus 
 - **CSS**: Mengatur tata letak, warna, font, dan animasi.
 - **JavaScript**: Menambahkan interaktivitas seperti toggle, smooth scrolling, dan burger menu.
 
-## Link GitHub Repository:
-Anda dapat mengakses kode lengkap proyek ini di repository GitHub berikut:  
-[https://github.com/ugihub/portofolioAI](https://github.com/ugihub/portofolioAI)
+## Link GitHub Pages:
+Anda dapat mengakses website ini dengan link berikut:  
+[https://ugihub.github.io/portofolioAI/](https://ugihub.github.io/portofolioAI/)
 
 ---
 
